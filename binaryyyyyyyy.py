@@ -81,3 +81,9 @@ read()
 update()
 read()
 print("hello beutiful people outhere")
+print("""#########
+nhfoiwehffnopenf;ngpiwhgpw
+efweuohgoienfl;qeENFOIEWGHK;NGQ
+BQEUIEGB23IBT32U9GTUBGBQ4IUVJKB4IUT
+3gruoi233gtoibt23b""")
+
